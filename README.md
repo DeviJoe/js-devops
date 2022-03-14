@@ -1,4 +1,4 @@
-# DevOps #2 - JS App Dockerfile + Docker-Compose 
+# DevOps #2 - JS App Dockerfiles
 
 ## Описание
 JS разработчик обратился к Вам за помощью с написанием автоматизации
